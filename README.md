@@ -31,6 +31,7 @@ docker-compose up -d
 ```shell
 sudo vi /etc/hosts
 127.0.0.1 app.codeigniter4.io
+127.0.0.1 opcache.codeigniter4.io
 ```
 4. Open Service in URL
 ```shell
@@ -41,8 +42,9 @@ http://app.codeigniter4.io/
 ![https://i.imgur.com/lno3ugO.jpg](https://i.imgur.com/lno3ugO.jpg)
 
 
-## Releases
-- [x] Build for CodeIgniter version 4.1.3
+## CHANGELOG
+
+Xem chi tiết tại: 
 
 ## Liên hệ
 

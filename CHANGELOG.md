@@ -8,6 +8,7 @@ Change Log được viết theo biểu mẫu tại đây: https://keepachangelog
 ### Added
 - [x] Add version CodeIgniter Framework `v4.1.3`
 - [x] Tích hợp Docker
+- [x] Tích hợp Git Submodules `opcache`
 
 ## Liên hệ
 
