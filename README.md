@@ -2,6 +2,10 @@
 
 Bản Skeleton phục vụ triển khai ứng dụng web bằng `CodeIgniter4 Framework`. Được đóng gói lại thành packages nhằm mục đích triển khai ứng dụng nhanh chóng
 
+## CHANGELOG
+
+Thông tin Changelog được cập nhật tại https://github.com/nguyenanhung/codeigniter4-skeleton/blob/master/CHANGELOG.md
+
 ## Install
 
 Chạy command sau để tiến hành cài đặt ứng dụng `nguyenanhung/codeigniter4-skeleton` và triển khai 1 dự án mới
@@ -40,11 +44,6 @@ http://app.codeigniter4.io/
 5. Screenshot Page
 
 ![https://i.imgur.com/lno3ugO.jpg](https://i.imgur.com/lno3ugO.jpg)
-
-
-## CHANGELOG
-
-Xem chi tiết tại: 
 
 ## Liên hệ
 
