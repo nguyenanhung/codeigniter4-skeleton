@@ -1,6 +1,9 @@
 # CodeIgniter4 Framework - Skeleton Application
 
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/codeigniter4-skeleton/v)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton) [![Total Downloads](http://poser.pugx.org/nguyenanhung/codeigniter4-skeleton/downloads)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/codeigniter4-skeleton/v/unstable)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton) [![License](http://poser.pugx.org/nguyenanhung/codeigniter4-skeleton/license)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/codeigniter4-skeleton/require/php)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/codeigniter4-skeleton.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/codeigniter4-skeleton.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/codeigniter4-skeleton.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/codeigniter4-skeleton/php)](https://packagist.org/packages/nguyenanhung/codeigniter4-skeleton)
 
 Bản Skeleton phục vụ triển khai ứng dụng web bằng `CodeIgniter4 Framework`. Được đóng gói lại thành packages nhằm mục đích triển khai ứng dụng nhanh chóng
 
